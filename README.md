@@ -1,8 +1,10 @@
 # E-Commerce
 E Commerce Website using PHP for customizable products
-                         : : : : : LOGIN DETAILS : : : : : 
 
-ADMIN PANEL LOGIN:
+
+##                         : : : : : LOGIN DETAILS : : : : : 
+
+### ADMIN PANEL LOGIN:
 
 >> NOTE : (for admin panel, login from the user's login)
 >>Enter the following details in Login for Admin Panel.
@@ -10,12 +12,12 @@ ADMIN PANEL LOGIN:
 Username: admin@gmail.com
 Password: abc@123
 
-USER LOGIN:
+### CUSTOMER LOGIN:
 
 Username: nived@gmail.com
 Password: abc
 
-SELLER LOGIN:
+### SELLER LOGIN:
 
 Username: sandy@gmail.com
 Password: abc
