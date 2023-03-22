@@ -6,7 +6,8 @@ E Commerce Website using PHP for customizable products
 
 ### ADMIN PANEL LOGIN:
 
->> NOTE : (for admin panel, login from the user's login)
+**>> NOTE : (for admin panel, login from the user's login)**
+
 >>Enter the following details in Login for Admin Panel.
 
 ```sh
@@ -23,7 +24,6 @@ Password: abc
 Username: sandy@gmail.com
 Password: abc
 ```
-DON'T FORGET TO CREATE A DATABASE NAMING "project" AND IMPORT THE SQL FILE TO RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+**DON'T FORGET TO CREATE A DATABASE NAMING "project" AND IMPORT THE SQL FILE TO RUN.**
 
 >>project FILE IS INSIDE Project!
